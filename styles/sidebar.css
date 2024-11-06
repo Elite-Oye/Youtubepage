@@ -33,7 +33,10 @@
     font-size: 10px;
   }
 }
-
+.insta{
+  margin-top : 20px;
+  margin-left :20px;
+}
 @media (min-width: 1200.1px) {
   .sidebar {
     position: fixed;
